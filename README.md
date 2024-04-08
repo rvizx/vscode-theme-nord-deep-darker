@@ -2,7 +2,9 @@
 
 ![Screenshot_20240408_191328](https://github.com/rvizx/vscode-theme-nord-deep-darker/assets/84989569/4ece55d4-eb2c-44ad-a536-9ef26ce7b18d)
 
-## Yep. Another Nord-based vscode theme (...and a little darker)
+
+## Yep. Another Nord-based vscode theme (...and a little darker) - i made it more darker ^^ ~  (rvz)
+Credits - [Deep Nord Theme](https://github.com/marlosirapuan/vscode-theme-nord-deep)
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/marlosirapuan.nord-deep)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/marlosirapuan.nord-deep)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
